@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Epilogue:wght@300;400;500;600;700&display=swap");
+
+
+:root{
+    --almost-black: hsl(0, 0%, 8%);
+}
+
+html,
+body {
+  font-family: "Alata", sans-serif;
+  font-family: "Epilogue", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(0, 0%, 98%);
+  overflow-x: hidden;
+}
